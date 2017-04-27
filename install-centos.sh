@@ -16,6 +16,6 @@ virt-install \
 	--nographics \
 	--os-type=linux \
 	--os-variant=centos7.0 \
-    --initrd-inject=$KS_PATH \
+	--initrd-inject=$KS_PATH \
 	--extra-args "ks=file:/centos-7-kickstart-web.cfg text console=tty0 console=ttyS0,115200n8 serial"
 
