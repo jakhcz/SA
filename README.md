@@ -1,1 +1,1 @@
-# NTU CSIE SA Website Management Team
+NTU CSIE SA Website Management Team
